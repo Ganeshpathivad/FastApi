@@ -1,1 +1,5 @@
-
+fastapi uvicorn
+fastapi
+uvicorn "[standard]"
+# Write a command to install Environments
+-- python -m venv ./venv-fastapi
